@@ -1,4 +1,14 @@
 $(function(){
+	//запуск карусели
+	$(".carousel_block").carousel();
+	
+	
+	
+	
+	
+	
+	
+	
 	var html = $("#people").html();
 	var people = [
 		{
